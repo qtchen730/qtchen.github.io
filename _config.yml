@@ -3,7 +3,8 @@ description: I am currently a Ph.D. candidate in Computer Science and Technology
 author: Qitong Chen
 avatar: /logo.png
 email: qtchen0730@163.com
-url: https://qtchen.github.io
+# url: https://qtchen.github.io
+
 
 plugins:
   - jekyll-seo-tag
