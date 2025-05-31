@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: [/about/]
+permalink: /about/
 ---
 - I am currently a Ph.D. candidate in Computer Science and Technology at Soochow University. I have been awarded the National Scholarship during both my undergraduate and doctoral studies. 
 - I have published seven SCI-indexed journal papers and three conference papers, including one first-author paper in a Q1 SCI journal (Chinese Academy of Sciences ranking), two in Q2 journals, and one in a top-tier conference in the field of automation.
