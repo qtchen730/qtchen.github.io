@@ -1,10 +1,10 @@
-- title: About
+- title: About me
   url: /about/
-- title: Education
+- title: Publications
   url: /years/
-- title: Categories
+- title: Education
   url: /categories/
-- title: Tags
+- title: Honors and Awards
   url: /tags/
 - title: More
   sublinks:
