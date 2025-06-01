@@ -4,7 +4,7 @@ author: Qitong Chen
 avatar: /logo.png
 email: qtchen0730@163.com
 url: https://qtchen730.github.io/qtchen.github.io
-skin: Midnight
+# skin: Midnight
  
 plugins:
   - jekyll-seo-tag
