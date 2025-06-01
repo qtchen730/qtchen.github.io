@@ -4,7 +4,7 @@ title: About me
 permalink: /About_me/
 ---
 
-**I am a Ph.D. student in the School Of Mechanical and Electrical Engineering at Soochow University, supervised by Prof. Liang Chen. **
+- **I am a Ph.D. student in the School Of Mechanical and Electrical Engineering at Soochow University, supervised by Prof. Liang Chen. **
 # Previous experiences
 - Apr 2023 - Present, Ph.D. candidate in Computer Science and Technology at Soochow University, supervised by Prof. Liang Chen and Prof. Changqing Shen.
 - Sep 2021 - Jun 2023, M.Eng. in Control Theory and Control Engineering at Soochow University, supervised by Prof. Liang Chen and Prof. Changqing Shen.
