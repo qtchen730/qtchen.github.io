@@ -5,7 +5,7 @@ avatar: /logo.png
 email: qtchen0730@163.com
 url: https://qtchen730.github.io/qtchen.github.io
 skin: midnight
-
+ 
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
