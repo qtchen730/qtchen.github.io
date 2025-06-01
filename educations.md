@@ -2,7 +2,7 @@
 layout: archive-taxonomies
 type: categories
 title: Categories
-permalink: /categories/
+permalink: /educations/
 ---
 
 - Apr 2023 - Present, Ph.D. candidate in Computer Science and Technology at Soochow University, supervised by Prof. Liang Chen and Prof. Changqing Shen.
