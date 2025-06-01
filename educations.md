@@ -1,7 +1,7 @@
 ---
 layout: archive-taxonomies
-type: categories
-title: Categories
+type: educations
+title: Educations
 permalink: /educations/
 ---
 
