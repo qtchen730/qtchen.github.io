@@ -1,5 +1,5 @@
 ---
 layout: archive-years
-title: Education
-permalink: /years/
+title: Categories
+permalink: /categories/
 ---
