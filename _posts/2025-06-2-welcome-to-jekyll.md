@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I am a Ph.D. candidate in Computer Science and Technology at Soochow University, honored with the National Scholarship at both undergraduate and doctoral levels. My research focuses on fault diagnosis of industrial robots and rotating machinery, with particular interests in domain generalization, adversarial learning, few-shot learning, and transfer learning. I have published seven SCI-indexed journal papers and three conference papers, including first-author works in Q1 journals and top-tier automation conferences. I currently lead a Jiangsu Provincial Innovation Project and have participated in national and industrial research projects related to SCARA robot fault diagnosis. I hold one authorized invention patent, with several others under review.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
