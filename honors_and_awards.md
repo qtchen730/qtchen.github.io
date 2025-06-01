@@ -7,7 +7,7 @@ permalink: /honors_and_awards/
 
 - 2025 Yu Cai Scholarship, Soochow University  
 - 2025 Outstanding Graduate Student Leader, Soochow University  
-- <span style="color:red">2024 National Scholarship for Doctoral Students (sole recipient in the school), Ministry of Education of China</span>  
+- <span style="color:red">2024 National Scholarship for Doctoral Students (sole recipient in the School of Mechanical and Electrical Engineering), Ministry of Education of China</span>  
 - 2024 Outstanding Communist Party Member, Soochow University  
 - 2024 Excellent Graduate Student, Soochow University  
 - 2023 First-Class Doctoral Scholarship, Soochow University  
@@ -25,6 +25,7 @@ permalink: /honors_and_awards/
 - 2018 Merit Student, Heilongjiang Bayi Agricultural University  
 - 2018 Outstanding Student Leader, Heilongjiang Bayi Agricultural University  
 - 2018 Outstanding Communist Youth League Cadre, Heilongjiang Bayi Agricultural University  
+
 
 
 
