@@ -51,4 +51,16 @@
       </ul>
     </nav>
   {% endif %}
+
+  <!-- 作者 ORCID 链接开始 -->
+  <ul class="author-social">
+    {% if author.orcid %}
+      <li>
+        <a href="{{ author.orcid }}" target="_blank" rel="noopener">
+          <i class="ai ai-orcid-square ai-fw"></i> ORCID
+        </a>
+      </li>
+    {% endif %}
+  </ul>
+  <!-- 作者 ORCID 链接结束 -->
 </div>
