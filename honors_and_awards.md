@@ -4,6 +4,7 @@ type: honors_and_awards
 title: Honors and Awards
 permalink: /honors_and_awards/
 ---
+# 🎖 Honors and Awards
 1. 2025 Yu Cai Scholarship, Soochow University  
 2. 2025 Outstanding Graduate Student Leader, Soochow University  
 3. <span style="color:red">2024 National Scholarship for Doctoral Students (sole recipient in the School of Mechanical and Electrical Engineering), Ministry of Education of China</span>  
@@ -25,7 +26,5 @@ permalink: /honors_and_awards/
 19. 2018 Outstanding Student Leader, Heilongjiang Bayi Agricultural University  
 20. 2018 Outstanding Communist Youth League Cadre, Heilongjiang Bayi Agricultural University  
 
-
-[Homepage](https://qtchen730.github.io/qtchen.github.io/)
 
 
