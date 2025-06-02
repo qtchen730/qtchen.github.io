@@ -5,6 +5,8 @@ title: Publications
 permalink: /publications/
 ---
 
+# 📝 Publications 
+## 🎙 Fault diagnosis
 - [1]	Chen Q, Li Q, Wu S, et al. [Fault diagnosis for ball screws in industrial robots under variable and inaccessible working conditions with non-vibration signals](https://www.sciencedirect.com/science/article/abs/pii/S1474034624002659) [J]. Advanced Engineering Informatics, 2024, 62: 102617. (JCR: Q1, IF: 8.1)
 - [2]	 Chen Q, Chen L, Li Q, et al. [Metric Learning-Based Few-Shot Adversarial Domain Adaptation: A Cross-Machine Diagnosis Method for Ball Screws of Industrial Robots](https://ieeexplore.ieee.org/abstract/document/10535297)[J]. IEEE Transactions on Instrumentation and Measurement, 2024. (JCR: Q1, IF: 5.6)
 - [3]	Chen Q, Chen L, Li Q, et al. [A lightweight and robust model for engineering cross-domain fault diagnosis via feature fusion-based unsupervised adversarial learning](https://www.sciencedirect.com/science/article/abs/pii/S0263224122013355) [J]. Measurement, 2022, 205: 112139. (JCR: Q1, IF: 5.2)
