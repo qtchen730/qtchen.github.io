@@ -12,9 +12,9 @@ permalink: /About_me/
   - Awarded in 10+ technology competitions, including one national-level and over ten provincial-level prizes. Mentored three undergraduate students in publishing three SCI-indexed papers.
   
 - 📖 **Previous experiences**
-  - Apr 2023 - Present, Ph.D. candidate in Computer Science and Technology at Soochow University, supervised by Prof. Liang Chen and Prof. Changqing Shen.
-  - Sep 2021 - Jun 2023, M.Eng. in Control Theory and Control Engineering at Soochow University, supervised by Prof. Liang Chen and Prof. Changqing Shen.
-  - Sep 2021 - Jun 2017, B.Eng. in School of Electrical and Information Engineering at Heilongjiang Bayi Agricultural University.
+  - *2023.09 - Present*, Ph.D. candidate in Computer Science and Technology at Soochow University, supervised by Prof. Liang Chen and Prof. Changqing Shen.
+  - *2021.09 - 2023.06*, M.Eng. in Control Theory and Control Engineering at Soochow University, supervised by Prof. Liang Chen and Prof. Changqing Shen.
+  - *2017.09 - 2021.06*, B.Eng. in School of Electrical and Information Engineering at Heilongjiang Bayi Agricultural University.
 
 - **Research interests**
   - fault diagnosis
