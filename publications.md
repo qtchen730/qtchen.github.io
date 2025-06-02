@@ -16,7 +16,7 @@ permalink: /publications/
 - [7]	Yin H, Chen Q, Chen L, et al. [Cross Attention Transformer-Based Domain Adaptation: A Novel Method for Fault Diagnosis of Rotating Machinery with High Generalizability and Alignment Capability](https://ieeexplore.ieee.org/abstract/document/10723230) [J]. IEEE Sensors Journal, 2024. (JCR: Q1, IF: 4.2)
 - [8]	Wang Q, Chen Q, Chen L, et al. [Dual-weight Attention-based Multi-source Multi-stage Alignment Domain Adaptation for Industrial Fault Diagnosis](https://iopscience.iop.org/article/10.1088/1361-6501/ad5038/meta) [J]. Measurement Science and Technology, 2024. (JCR: Q2, IF: 2.6)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='qtchen2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
