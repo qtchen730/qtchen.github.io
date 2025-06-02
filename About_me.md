@@ -5,6 +5,11 @@ permalink: /About_me/
 ---
 
 - I am a Ph.D. student in the School Of Mechanical and Electrical Engineering at Soochow University, supervised by Prof. Liang Chen.
+- First author of one SCI Zone 1 top-tier journal paper, two SCI Zone 2 papers, and one top conference paper. Holder of a national invention patent in robotic fault diagnosis.
+- Reviewer for top international conferences, SCI Top journals and seven other journals.
+- Led algorithm development for the SCARA robot fault diagnosis project at Inovance Technology, successfully completed.
+- Recipient of national scholarships at both undergraduate and doctoral levels, and over 20 honors including Outstanding Graduate and Excellent Student awards.
+- Awarded in 10+ technology competitions, including one national-level and over ten provincial-level prizes. Mentored three undergraduate students in publishing three SCI-indexed papers.
   
 - **Previous experiences**
   - Apr 2023 - Present, Ph.D. candidate in Computer Science and Technology at Soochow University, supervised by Prof. Liang Chen and Prof. Changqing Shen.
