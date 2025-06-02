@@ -31,6 +31,9 @@ permalink: /About_me/
   - Measurement Science and Technology
   - IEEE Access
   - Journal of Mechanical Engineering Science.
+- ORCID:[ORCID](https://orcid.org/my-orcid?orcid=0000-0001-8970-1345)
+- Github:[Github](https://github.com/qtchen730)
+- Google Scholar:[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AH8HC4xeoljk2HVnnOwT-ZeXYJ9xt2Zo0WQc0QIV9lz7AuKv0jeHoUR8wg4Ht-6dVELb7wMZmNx4TIrBVuRa-irgkumzL_ebrZ3Z9g8ZoGFEgYIYzpj4PHsL2tCjKqVA2GM&user=Ag4Bcb6bUv4C)
 
 
 [Homepage](https://qtchen730.github.io/qtchen.github.io/)
