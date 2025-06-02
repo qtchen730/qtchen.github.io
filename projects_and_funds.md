@@ -11,3 +11,5 @@ permalink: /projects_and_funds/
 - 2023 *Fault Diagnosis of Core Components of SCARA Robots in Variable Industrial Working Conditions*, Junzheng Fund Project (National-level, Undergraduate Advisor)  
 - 2022 *Research on a Domain-Specific Batch-Normalized SCARA Robot Fault Diagnosis Model Based on MobileNet*, Soochow University 24th Extracurricular Academic Fund Project (University-level Key Project, Principal Investigator)  
 
+
+[Homepage](https://qtchen730.github.io/qtchen.github.io/)
