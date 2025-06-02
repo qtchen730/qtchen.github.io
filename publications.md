@@ -55,7 +55,7 @@ Ziyue Jiang, Jinglin Liu, **Yi Ren**, et al.
 </div>
 </div>
 
-
+ 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
