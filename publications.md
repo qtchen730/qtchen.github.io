@@ -13,7 +13,8 @@ permalink: /publications/
 - [6]	Li X, Chen Q, Chen L, et al. [Joint Domain Adaptation Based Lightweight Approach for Cross-domain Diagnosis Compatible with Different Devices and Multimodal Sensing](https://ieeexplore.ieee.org/abstract/document/10608057) [J]. IEEE Sensors Journal, 2024. (JCR: Q1, , IF: 4.2)
 - [7]	Yin H, Chen Q, Chen L, et al. [Cross Attention Transformer-Based Domain Adaptation: A Novel Method for Fault Diagnosis of Rotating Machinery with High Generalizability and Alignment Capability](https://ieeexplore.ieee.org/abstract/document/10723230) [J]. IEEE Sensors Journal, 2024. (JCR: Q1, IF: 4.2)
 - [8]	Wang Q, Chen Q, Chen L, et al. [Dual-weight Attention-based Multi-source Multi-stage Alignment Domain Adaptation for Industrial Fault Diagnosis](https://iopscience.iop.org/article/10.1088/1361-6501/ad5038/meta) [J]. Measurement Science and Technology, 2024. (JCR: Q2, IF: 2.6)
+- 
 
-
+[Homepage](https://qtchen730.github.io/qtchen.github.io/)
 
 
