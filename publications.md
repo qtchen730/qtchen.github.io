@@ -4,7 +4,7 @@ type: publications
 title: Publications
 permalink: /publications/
 ---
-
+ 
 # 📝 Publications 
 ## 🎙 Fault diagnosis
 - [1]	Chen Q, Li Q, Wu S, et al. [Fault diagnosis for ball screws in industrial robots under variable and inaccessible working conditions with non-vibration signals](https://www.sciencedirect.com/science/article/abs/pii/S1474034624002659) [J]. Advanced Engineering Informatics, 2024, 62: 102617. (JCR: Q1, IF: 8.1)
