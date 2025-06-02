@@ -3,6 +3,7 @@ layout: post
 ---
 Currently, I am leading one Jiangsu Provincial Innovation and Practice Project. I previously served as the algorithm design lead for the Inovance-Soochow University joint project titled *"SCARA Robot Fault Diagnosis and Lifetime Prediction"*. I have supervised three undergraduate students in launching national-level innovation projects and one student in a provincial-level project.
 
+
 1. **2025.05–2026.05: *Research on Small-Scale Robot Fault Perception Models Driven by Multimodal Fusion and Adversarial Games*, Jiangsu Provincial Innovation and Practice Program (Provincial-level, Principal Investigator)**  
 2. 2025.05–2026.05: *Research and Application of Industrial Multimodal Heterogeneous Data Fusion and AI Large Model Adaptation Technology*, Junzheng Fund Project (National-level, Advisor to undergraduate student Li Xiang)  
 3. 2025.05–2027.05: *Fault Diagnosis of Industrial Robots Based on Multimodal Lightweight Models*, Undergraduate Innovation and Training Program (Provincial-level, Advisor to undergraduate student Gu Likun)  
