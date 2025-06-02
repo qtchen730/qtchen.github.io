@@ -2,6 +2,7 @@
 layout: page
 title: About me
 permalink: /About_me/
+toc: true
 ---
 
 - I am a Ph.D. student in the School Of Mechanical and Electrical Engineering at Soochow University, supervised by Prof. Liang Chen.
