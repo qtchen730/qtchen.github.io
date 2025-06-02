@@ -5,7 +5,8 @@ avatar: /qtchen2.jpg
 email: qtchen0730@163.com
 location: SuZhou, China
 url: https://qtchen730.github.io/qtchen.github.io
-# skin: sunrise  # sunrise
+github: "https://github.com/qtchen730"
+skin: sunrise  # midnight daylight sunrise sunset
  
 plugins:
   - jekyll-seo-tag
