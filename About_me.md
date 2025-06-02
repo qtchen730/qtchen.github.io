@@ -6,19 +6,19 @@ permalink: /About_me/
 
 - I am a Ph.D. student in the School Of Mechanical and Electrical Engineering at Soochow University, supervised by Prof. Liang Chen.
   
-- Previous experiences
+- **Previous experiences**
   - Apr 2023 - Present, Ph.D. candidate in Computer Science and Technology at Soochow University, supervised by Prof. Liang Chen and Prof. Changqing Shen.
   - Sep 2021 - Jun 2023, M.Eng. in Control Theory and Control Engineering at Soochow University, supervised by Prof. Liang Chen and Prof. Changqing Shen.
   - Sep 2021 - Jun 2017, B.Eng. in School of Electrical and Information Engineering at Heilongjiang Bayi Agricultural University.
 
-- Research interests
+- **Research interests**
   - fault diagnosis
   - domain generalization
   - adversarial learning
   - few-shot learning
   - transfer learning.
   
-- Review journals
+- **Review journals**
   - IEEE Transactions on Industrial Informatics
   - Advanced Engineering Informatics
   - Conference on Decision and Control (CDC)
