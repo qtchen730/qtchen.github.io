@@ -16,6 +16,18 @@ permalink: /publications/
 - [7]	Yin H, Chen Q, Chen L, et al. [Cross Attention Transformer-Based Domain Adaptation: A Novel Method for Fault Diagnosis of Rotating Machinery with High Generalizability and Alignment Capability](https://ieeexplore.ieee.org/abstract/document/10723230) [J]. IEEE Sensors Journal, 2024. (JCR: Q1, IF: 4.2)
 - [8]	Wang Q, Chen Q, Chen L, et al. [Dual-weight Attention-based Multi-source Multi-stage Alignment Domain Adaptation for Industrial Fault Diagnosis](https://iopscience.iop.org/article/10.1088/1361-6501/ad5038/meta) [J]. Measurement Science and Technology, 2024. (JCR: Q2, IF: 2.6)
 
-[Homepage](https://qtchen730.github.io/qtchen.github.io/)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='qtchen2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
+**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+
+[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- FastSpeech is the first fully parallel end-to-end speech synthesis model.
+- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
+- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
+</div>
+</div>
 
 
