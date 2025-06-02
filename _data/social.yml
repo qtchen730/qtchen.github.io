@@ -1,12 +1,7 @@
 - title: Orcid
   url: https://orcid.org/my-orcid?orcid=0000-0001-8970-1345
-  icon: ai ai-orcid
+  icon: fa-orcid
 - title: GitHub
   url: https://github.com/qtchen730
   icon: fab fa-github
 
-{% for link in site.data.social %}
-  <a href="{{ link.url }}" target="_blank">
-    <i class="{{ link.icon }}"></i> {{ link.title }}
-  </a>
-{% endfor %}
