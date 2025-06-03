@@ -37,5 +37,3 @@ permalink: /About_me/
   - Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=Ag4Bcb6bUv4C)
 
 
-[Homepage](https://qtchen730.github.io/qtchen.github.io/)
-
