@@ -3,7 +3,7 @@ layout: page
 title: 👨‍🎓 About me
 permalink: /About_me/
 ---
-
+- 👨‍🎓 **Introduction**
 - I am a Ph.D. student in the School Of Mechanical and Electrical Engineering at Soochow University, supervised by Prof. [Liang Chen](https://jdxy.suda.edu.cn/).
   - First author of one SCI Zone 1 top-tier journal paper, two SCI Zone 2 papers, and one top conference paper 🔥 [Google Scholar](https://scholar.google.com/citations?user=Ag4Bcb6bUv4C). Holder of a national invention patent in robotic fault diagnosis.
   - Reviewer for top international conferences, SCI Top journals and seven other journals.
