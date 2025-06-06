@@ -1,6 +1,6 @@
 - title: Orcid
   url: https://orcid.org/0000-0001-8970-1345
-  icon: fab fa-twitter
+  icon: fa fa-info-circle
 - title: GitHub
   url: https://github.com/qtchen730
   icon: fab fa-github
@@ -11,4 +11,3 @@
   url: https://qtchen730.github.io/qtchen.github.io/
   icon: fa fa-home
   
-
