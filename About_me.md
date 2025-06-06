@@ -32,8 +32,8 @@ permalink: /About_me/
   - IEEE Access
   - Journal of Mechanical Engineering Science.
 - 📧 **Contact**
-  - ORCID: [🆔](https://orcid.org/0000-0001-8970-1345)
-  - Github: [Github](https://github.com/qtchen730)
+  - ORCID: [0000-0001-8970-1345](https://orcid.org/0000-0001-8970-1345)
+  - Github: [qtchen730](https://github.com/qtchen730)
   - Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=Ag4Bcb6bUv4C)
 
 
