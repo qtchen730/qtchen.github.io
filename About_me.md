@@ -11,19 +11,19 @@ permalink: /About_me/
   - Recipient of national scholarships at both undergraduate and doctoral levels, and over 20 honors including Outstanding Graduate and Excellent Student awards.
   - Awarded in 10+ technology competitions, including one national-level and over ten provincial-level prizes. Mentored three undergraduate students in publishing three SCI-indexed papers.
   
-- 📖 **Previous experiences**
+- 🎓 **Previous experiences**
   - *2023.09 - Present*, Ph.D. candidate in Computer Science and Technology at Soochow University, supervised by Prof. Liang Chen and Prof. Changqing Shen.
   - *2021.09 - 2023.06*, M.Eng. in Control Theory and Control Engineering at Soochow University, supervised by Prof. Liang Chen and Prof. Changqing Shen.
   - *2017.09 - 2021.06*, B.Eng. in School of Electrical and Information Engineering at Heilongjiang Bayi Agricultural University.
 
-- **Research interests**
+- 🔍 **Research interests**
   - fault diagnosis
   - domain generalization
   - adversarial learning
   - few-shot learning
   - transfer learning.
   
-- **Review journals**
+- 📖 **Review journals**
   - IEEE Transactions on Industrial Informatics
   - Advanced Engineering Informatics
   - Conference on Decision and Control (CDC)
@@ -31,7 +31,7 @@ permalink: /About_me/
   - Measurement Science and Technology
   - IEEE Access
   - Journal of Mechanical Engineering Science.
-- **Contact**
+- 📧 **Contact**
   - ORCID: [ORCID](https://orcid.org/0000-0001-8970-1345)
   - Github: [Github](https://github.com/qtchen730)
   - Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=Ag4Bcb6bUv4C)
