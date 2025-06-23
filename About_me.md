@@ -24,8 +24,9 @@ permalink: /About_me/
   - transfer learning.
   
 - 📖 **Review journals**
-  - IEEE Transactions on Industrial Informatics
-  - Advanced Engineering Informatics
+  - IEEE Transactions on Industrial Informatics（IEEE TII）
+  - Advanced Engineering Informatics（AEI）
+  - Engineering Applications of Artificial Intelligence（EAAI）
   - Conference on Decision and Control (CDC)
   - IEEE Transactions on Instrumentation and Measurement
   - Measurement Science and Technology
