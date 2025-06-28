@@ -27,7 +27,7 @@ permalink: /About_me/
   - IEEE Transactions on Industrial Informatics（IEEE TII）
   - Advanced Engineering Informatics（AEI）
   - Engineering Applications of Artificial Intelligence（EAAI）
-  - Conference on Decision and Control (CDC)
+  - IEEE Conference on Decision and Control (CDC)
   - IEEE Transactions on Instrumentation and Measurement
   - Measurement Science and Technology
   - IEEE Access
