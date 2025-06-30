@@ -29,6 +29,7 @@ permalink: /About_me/
   - Engineering Applications of Artificial Intelligence（EAAI）
   - IEEE Conference on Decision and Control (CDC)
   - IEEE Transactions on Instrumentation and Measurement
+  - IEEE Sensors Journal
   - Measurement Science and Technology
   - IEEE Access
   - Journal of Mechanical Engineering Science.
