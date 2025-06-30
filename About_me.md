@@ -27,12 +27,12 @@ permalink: /About_me/
   - IEEE Transactions on Industrial Informatics（IEEE TII）
   - Advanced Engineering Informatics（AEI）
   - Engineering Applications of Artificial Intelligence（EAAI）
-  - IEEE Conference on Decision and Control (CDC)
-  - IEEE Transactions on Instrumentation and Measurement
-  - IEEE Sensors Journal
-  - Measurement Science and Technology
+  - IEEE Conference on Decision and Control (IEEE CDC)
+  - IEEE Transactions on Instrumentation and Measurement (IEEE TIM)
+  - IEEE Sensors Journal (IEEE SJ)
+  - Measurement Science and Technology (MST)
   - IEEE Access
-  - Journal of Mechanical Engineering Science.
+  - Journal of Mechanical Engineering Science (JMES).
 - 📧 **Contact**
   - ORCID: [0000-0001-8970-1345](https://orcid.org/0000-0001-8970-1345)
   - Github: [qtchen730](https://github.com/qtchen730)
