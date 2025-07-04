@@ -17,11 +17,12 @@ permalink: /About_me/
   - *2017.09 - 2021.06*, B.Eng. in School of Electrical and Information Engineering at [Heilongjiang Bayi Agricultural University](https://www.byau.edu.cn/).
 
 - 🔍 **Research interests**
-  - fault diagnosis
-  - domain generalization
-  - adversarial learning
-  - few-shot learning
-  - transfer learning.
+  - Fault diagnosis
+  - Domain generalization
+  - Adversarial learning
+  - Few-shot learning
+  - Transfer learning
+  - Time-frequency Transformer
   
 - 📖 **Review journals**
   - [IEEE Transactions on Industrial Informatics（IEEE TII）](https://mc.manuscriptcentral.com/tii)
