@@ -26,13 +26,13 @@ permalink: /About_me/
 - 📖 **Review journals**
   - [IEEE Transactions on Industrial Informatics（IEEE TII）](https://mc.manuscriptcentral.com/tii)
   - [Advanced Engineering Informatics（AEI）](https://www2.cloud.editorialmanager.com/advei/default2.aspx)
-  - [Engineering Applications of Artificial Intelligence（EAAI）]
+  - [Engineering Applications of Artificial Intelligence（EAAI）](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
   - [IEEE Conference on Decision and Control (IEEE CDC)](https://css.paperplaza.net/conferences/scripts/start.pl)
   - [IEEE Transactions on Instrumentation and Measurement (IEEE TIM)](https://www2.cloud.editorialmanager.com/tim/default2.aspx)
   - [IEEE Sensors Journal (IEEE SJ)](https://mc.manuscriptcentral.com/sensors)
   - [Measurement Science and Technology (MST)](https://mc04.manuscriptcentral.com/mst-iop)
   - [IEEE Access](https://mc.manuscriptcentral.com/ieee-access)
-  - [Journal of Mechanical Engineering Science (JMES)]
+  - [Journal of Mechanical Engineering Science (JMES)](https://mc.manuscriptcentral.com/jmes)
 - 📧 **Contact**
   - ORCID: [0000-0001-8970-1345](https://orcid.org/0000-0001-8970-1345)
   - Github: [qtchen730](https://github.com/qtchen730)
