@@ -4,6 +4,7 @@ title: 👨‍🎓 About me
 permalink: /About_me/
 ---
 - 👨‍🎓 **Introduction**
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?lines=你好，欢迎来到我的主页;我是一名在读博士生。)
 
 - I am a Ph.D. student in the School Of Mechanical and Electrical Engineering at Soochow University, supervised by Prof. [Liang Chen](https://jdxy.suda.edu.cn/).
