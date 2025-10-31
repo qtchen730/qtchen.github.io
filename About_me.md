@@ -31,11 +31,11 @@ permalink: /About_me/
   - [IEEE Transactions on Industrial Informatics（IEEE TII）](https://mc.manuscriptcentral.com/tii)
   - [Advanced Engineering Informatics（AEI）](https://www2.cloud.editorialmanager.com/advei/default2.aspx)
   - [Engineering Applications of Artificial Intelligence（EAAI）](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
-  - [Expert System with Applications](https://www.editorialmanager.com/eswa/default2.aspx).
+  - [Expert System with Applications](ESWA)(https://www.editorialmanager.com/eswa/default2.aspx)
   - [IEEE Conference on Decision and Control (IEEE CDC)](https://css.paperplaza.net/conferences/scripts/start.pl)
   - [IEEE Transactions on Instrumentation and Measurement (IEEE TIM)](https://www2.cloud.editorialmanager.com/tim/default2.aspx)
   - [IEEE Sensors Journal (IEEE SJ)](https://mc.manuscriptcentral.com/sensors)
-  - [Journal of Process Control](https://www.editorialmanager.com/jprocont/default2.aspx).
+  - [Journal of Process Control](JPC)(https://www.editorialmanager.com/jprocont/default2.aspx)
   - [Measurement Science and Technology (MST)](https://mc04.manuscriptcentral.com/mst-iop)
   - [IEEE Access](https://mc.manuscriptcentral.com/ieee-access)
   - [Journal of Mechanical Engineering Science (JMES)](https://mc.manuscriptcentral.com/jmes)
