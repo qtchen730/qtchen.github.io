@@ -28,7 +28,7 @@ permalink: /About_me/
   - Time-frequency Transformer
   
 - 📖 **Review journals**
-  - [IEEE Transactions on Industrial Informatics（IEEE TII）](https://mc.manuscriptcentral.com/tii)
+  \item [IEEE Transactions on Industrial Informatics（IEEE TII）](https://mc.manuscriptcentral.com/tii)
   - [Advanced Engineering Informatics（AEI）](https://www2.cloud.editorialmanager.com/advei/default2.aspx)
   - [Engineering Applications of Artificial Intelligence（EAAI）](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
   - [Expert System with Applications (ESWA)](https://www.editorialmanager.com/eswa/default2.aspx)
